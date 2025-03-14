@@ -29,4 +29,6 @@ else:
     # Генерація пароля
     password = generate_password(L, A)
     print(f"Згенерований пароль: {password}")
+
 # hello
+
